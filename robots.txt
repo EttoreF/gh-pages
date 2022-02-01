@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ettoref.github.io/gh-pages/sitemap.xml
